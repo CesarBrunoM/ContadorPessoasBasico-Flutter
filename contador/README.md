@@ -1,10 +1,10 @@
 # contador
 
-A new Flutter project.
+Projeto em Flutter de contagem de pessoas.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Projeto de estudo que tem como finalidade a contagem de pessoas em um local com o maximo de 20 ocupantes.
 
 A few resources to get you started if this is your first Flutter project:
 
